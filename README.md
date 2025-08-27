@@ -3,6 +3,7 @@ This indicator displays the **major Forex market sessions** (Tokyo, London, New 
 It supports **Daylight Saving Time (DST) adjustments**, customizable countdown to the next session,  
 and session overlap display (e.g. *Tokyo + London → New York*).
 
+---
 
 ## 📑 Table of Contents
 - [Features](#features)
@@ -14,6 +15,7 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 - [Contributing](#contributing)
 - [License](#license)
 
+---
 
 ## ✨ Features
 - Display active Forex sessions (Tokyo, London, New York, Sydney).
@@ -24,8 +26,9 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 - Alert types
   - 🔕 Disable
   - 🔔 Sound only
-  - 📲 Push notification (MetaTrader mobile app).
+  - 📲 Push notification (MetaTrader mobile app)
 
+---
 
 ## 🚀 Installation
 1. Download the Script: Download the `Market Sessions.mq5` file from this repository.
@@ -38,6 +41,7 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 4. Refresh MetaTrader 5
    - Restart MetaTrader 5 or right-click in the Navigator window and select Refresh.
 
+---
 
 ## 📖 Usage
 1. **Load the Indicator**
@@ -63,6 +67,7 @@ and session overlap display (e.g. *Tokyo + London → New York*).
      Session Update  London  to  New York
      ```
 
+---
 
 ## ⚙️ Inputs
 ### Settings
@@ -82,6 +87,7 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 - **Font_Color** → Session text color.
 - **Font_Size** → Session text size.
 
+---
 
 ## 💻 Script Code
 Below is the MQL5 code used to create the "Market Sessions" indicator
@@ -89,6 +95,7 @@ Below is the MQL5 code used to create the "Market Sessions" indicator
 
 ```
 
+---
 
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements, bug fixes, or new features to suggest, please follow these steps
@@ -102,6 +109,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 
 Please ensure your code follows the existing code style and includes comments where necessary.
 
+---
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
