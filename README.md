@@ -6,14 +6,13 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 ---
 
 ## 📑 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Inputs](#inputs)
-- [Customization](#customization)
-- [Script Code](#script-code)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Inputs](#-inputs)
+- [Script Code](#-script-code)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
