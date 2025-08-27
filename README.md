@@ -68,7 +68,8 @@ and session overlap display (e.g. *Tokyo + London → New York*).
 
 ---
 
-## ⚙️ Inputs
+## 📝 Inputs
+
 ### Settings
 - **Countdown_Minutes** → Minutes before next session to show countdown.
 - **Alert_Type** → Choose alert type (disable, sound, notification).
